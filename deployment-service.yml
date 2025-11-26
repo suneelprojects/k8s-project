@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: suneel
-        image: suneel09/7am-dockerproject:latest
+        image: suneel09/nov-dockerproject:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
