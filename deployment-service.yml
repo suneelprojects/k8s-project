@@ -4,7 +4,7 @@ kind: Deployment
 metadata:
   name: suneel
 spec:
-  replicas: 2
+  replicas: 10
   selector:
     matchLabels:
       app: suneel
